@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "NOW I KNOW",
+  "base_artist": "平田志穂子",
+  "createdAt": "2026-03-13T14:11:45.516020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Cowboy Junkies",
+      "has_synced": true,
+      "path": "select/01_Now_I_Know_Cowboy_Junkies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now I Know You Know",
+      "artist": "Deborah Harry",
+      "has_synced": true,
+      "path": "select/02_Now_I_Know_You_Know_Deborah_Harry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/03_Now_I_Know_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Now I Know I'll Never Get over You",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/04_Now_I_Know_I'll_Never_Get_over_You_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Pennywise",
+      "has_synced": true,
+      "path": "select/05_Now_I_Know_Pennywise.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now I Know (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/06_Now_I_Know_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now I Know Why - They Call It Falling",
+      "artist": "Michael Franks",
+      "has_synced": false,
+      "path": "select/07_Now_I_Know_Why_-_They_Call_It_Falling_Michael_Franks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Now I Know What Made Otis Blue",
+      "artist": "Paul Young",
+      "has_synced": true,
+      "path": "select/08_Now_I_Know_What_Made_Otis_Blue_Paul_Young.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Dishwalla",
+      "has_synced": true,
+      "path": "select/09_Now_I_Know_Dishwalla.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NOW I KNOW",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/10_NOW_I_KNOW_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "July Talk",
+      "has_synced": false,
+      "path": "select/11_Now_I_Know_July_Talk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Now I Know You Know",
+      "artist": "Debbie Harry",
+      "has_synced": false,
+      "path": "select/12_Now_I_Know_You_Know_Debbie_Harry.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Show Me the Body",
+      "has_synced": false,
+      "path": "select/13_Now_I_Know_Show_Me_the_Body.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Now I Know",
+      "artist": "Anthony Rapp",
+      "has_synced": false,
+      "path": "select/14_Now_I_Know_Anthony_Rapp.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NOW I KNOW",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/15_NOW_I_KNOW_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOW I KNOW",
+      "artist": "平田志穂子",
+      "has_synced": false,
+      "path": "select/pl_01_NOW_I_KNOW_平田志穂子.txt"
+    }
+  ]
+}
